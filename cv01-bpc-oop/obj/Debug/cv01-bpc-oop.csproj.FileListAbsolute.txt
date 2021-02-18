@@ -1,0 +1,7 @@
+F:\VŠ\Projekty BPC-OOP (3. roč.)\cv01-bpc-oop\cv01-bpc-oop\bin\Debug\cv01-bpc-oop.exe.config
+F:\VŠ\Projekty BPC-OOP (3. roč.)\cv01-bpc-oop\cv01-bpc-oop\bin\Debug\cv01-bpc-oop.exe
+F:\VŠ\Projekty BPC-OOP (3. roč.)\cv01-bpc-oop\cv01-bpc-oop\bin\Debug\cv01-bpc-oop.pdb
+F:\VŠ\Projekty BPC-OOP (3. roč.)\cv01-bpc-oop\cv01-bpc-oop\obj\Debug\cv01-bpc-oop.csprojAssemblyReference.cache
+F:\VŠ\Projekty BPC-OOP (3. roč.)\cv01-bpc-oop\cv01-bpc-oop\obj\Debug\cv01-bpc-oop.csproj.CoreCompileInputs.cache
+F:\VŠ\Projekty BPC-OOP (3. roč.)\cv01-bpc-oop\cv01-bpc-oop\obj\Debug\cv01-bpc-oop.exe
+F:\VŠ\Projekty BPC-OOP (3. roč.)\cv01-bpc-oop\cv01-bpc-oop\obj\Debug\cv01-bpc-oop.pdb
